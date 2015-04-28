@@ -1,6 +1,6 @@
 # PacmanCaptureAI
 
-This AI came in second out of 27 teams in my CMPS 140 class at UC Santa Cruz.  The specific file that contains my AI is `myTeam.py`.  To get an overview of the game, see `instructions.html`.  To read about how my AI was devised and operates, see `PacmanWrite-Up.pdf`.
+This AI, which I named "GotoFail", came in second out of 27 teams in my CMPS 140 class at UC Santa Cruz.  The specific file that contains my AI is `myTeam.py`.  To get an overview of the game, see `instructions.html`.  To read about how my AI was devised and operates, see `PacmanWrite-Up.pdf`.
 
 To get a look at the AI in action, enter the following into your terminal:
 > python capture.py -r myTeam
